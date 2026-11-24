@@ -1,0 +1,20 @@
+{
+  "name": "luma-events-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Luma Events Scraper: Scrape Luma (lu.ma) events by city or category: dates, venues, guest counts, ticket prices, hosts and their socials. No login needed. Export JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "lu"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
